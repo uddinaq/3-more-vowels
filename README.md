@@ -1,1 +1,2 @@
 # 3-more-vowels
+In this code for this week I added lowercase j, uppercase Q, and uppercase Z into my code which will count these letters in the us.txt file. I incorporated these 3 letters by incorporating it with the other letters in the if statements and the "vowel counter" which is now the letter counter to my code to ensure that it would count vowels plus the 3 other consonants. I also changed the statements at the end that "The vowels and the three other letters counted are..." and completed my code.
